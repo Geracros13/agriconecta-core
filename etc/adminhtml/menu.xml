@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Menu/etc/menu.xsd">
+    <menu>
+        <add id="Agriconecta_Core::menu_principal"
+             title="Agriconecta"
+             translate="title"
+             module="Agriconecta_Core"
+             sortOrder="10"
+             resource="Magento_Backend::admin"/>
+    </menu>
+</config>
