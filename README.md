@@ -38,5 +38,4 @@ Este módulo de Magento agrega un nuevo elemento de menú principal al panel de 
 Puedes cambiar el nombre y el icono del menú padre modificando el archivo de configuración del módulo. 
 
 **Soporte**
-
 Si tienes algún problema o pregunta, crea un issue en el repositorio del módulo. 
